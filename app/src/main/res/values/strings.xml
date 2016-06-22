@@ -1,0 +1,107 @@
+<resources>
+
+    <!-- ########################## STRING EM COMUM ###################################  -->
+
+    <string name="app_name">NutriMA</string>
+
+    <string name="sem_dados_text_view">Nenhuma informação foi encontrada.</string>
+
+    <string name="confirmar_title">Confirmar</string>
+    <string name="add_title">Adicionar</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ########################## ACTIONBAR LABELS ###################################  -->
+
+    <string name="login_label">Autenticação</string>
+
+    <string name="modulo_label">NutriMA</string>
+
+    <string name="reficao_list_label">Refeições</string>
+
+    <string name="pratos_list_label">Pratos</string>
+
+    <string name="diario_peso_list_label">Pesagens</string>
+    <string name="diario_peso_detalhe_label">Pesagem</string>
+
+    <string name="diario_altura_list_label">Medições</string>
+    <string name="diario_altura_detalhe_label">Medição</string>
+
+    <string name="diario_atividade_list_label">Atividades</string>
+    <string name="diario_atividade_detalhe_label">Atividade</string>
+
+    <string name="refeicao_alimento_list_label">Alimentos</string>
+
+    <string name="grafico_evoluca_label">Gráfico de Evolução</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ########################## ACTIVITY LOGIN ####################################  -->
+
+    <string name="instrucao_text_view">Informe o número de telefone que foi comunicado ao seu nutricionista</string>
+    <string name="autenticar_buton">Autenticar</string>
+
+    <string name="numero_telefone_hint">Ex.: 55 84 98888-8888</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ############################ ACTIVITY MODULO ###################################  -->
+
+    <string name="refeicao_icon_text_view">Refeições</string>
+    <string name="pratos_icon_text_view">Pratos</string>
+    <string name="diario_peso_icon_text_view">Diário de Peso</string>
+    <string name="diario_altura_icon_text_view">Diário de Altura</string>
+    <string name="diario_atividade_icon_text_view">Diário de Atividades</string>
+    <string name="grafico_evolucao_icon_text_view">Gráfico de Evolução</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ############################# ADAPTER PESO ####################################  -->
+
+    <string name="peso_text_view_peso_adapter">Peso:</string>
+    <string name="data_text_view_peso_adapter">Data:</string>
+    <string name="imc_text_view_peso_adapter">IMC:</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- #####################  ACTIVITY DIARIO PESO DETALHE ###########################  -->
+
+    <string name="peso_peso_detalhe_text_view">Peso</string>
+    <string name="data_peso_detalhe_text_view">Data da pesagem</string>
+    <string name="observacao_peso_detalhe_text_view">Observações</string>
+
+    <string name="peso_peso_detalhe_hint">Ex.: 71.5</string>
+    <string name="observao_peso_detalhe_hint">Informações adicionais sobre sua pesagem que você deseja que seu Nutricionista fique ciente</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- #####################  ACTIVITY DIARIO ALTURA DETALHE ###########################  -->
+
+    <string name="altura_altura_detalhe_text_view">Altura</string>
+    <string name="data_altura_detalhe_text_view">Data da medição</string>
+    <string name="observacao_altura_detalhe_text_view">Observações</string>
+
+    <string name="altura_altura_detalhe_hint">Ex.: 1.70</string>
+    <string name="observacao_altura_detalhe_hint">Informações adicionais sobre sua medição que você deseja que seu Nutricionista fique ciente</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ##############################  ADAPTER ALTURA ################################  -->
+
+    <string name="altura_text_view_altura_adapter">Altura:</string>
+    <string name="data_text_view_altura_adapter">Data:</string>
+
+    <!-- ###############################################################################  -->
+
+    <!-- ###################### ACTIVITY DIARIO ATIVIDADE DETALHE ######################  -->
+
+    <string name="atividade_atividade_detalhe_text_view">Atividade:</string>
+    <string name="intensidade_atividade_detalhe_text_view">Intensidade:</string>
+    <string name="data_realizacao_atividade_detalhe_text_view">Data de Realização:</string>
+    <string name="duracao_atividade_detalhe_text_view">Duração:</string>
+
+    <string name="duracao_atividade_detalhe_hint">Duração em minutos</string>
+
+    <!-- ###############################################################################  -->
+
+</resources>
